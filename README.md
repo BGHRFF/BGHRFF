@@ -8,11 +8,11 @@
 
 - 🌱 Öyrəmdiyim dillər: **Python,Java,Php,Html,Go**
 
-- 👯 Teleqram Blog Kanalım [BaghirovBlog](t.me/BaghirovBlog)
+- 👯 Teleqram Blog Kanalım [BaghirovBlog](https://t.me/BaghirovBlog)
 
 - 🤝 Mənə dəstək olan kanal [Dark Web Azerbaijan](https://t.me/darkwebazerbaijan)
 
-- 💬 Sualınız olarsa: [BGHRFF](t.me/TheBaghirov)
+- 💬 Sualınız olarsa: [BGHRFF](https://t.me/TheBaghirov)
 
 - 📫 Əlaqə saxlamaq üçün **dwebazerbaijan@gmail.com**
 
