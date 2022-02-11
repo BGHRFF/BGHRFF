@@ -7,7 +7,7 @@
 - 🔭 Hal-hazırda öyrəndiyim mövzu [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 - 🌱 Öyrəmdiyim dillər: **Python,Java,Php,Html,Go**
-- 
+
 - 👯 Teleqram Blog Kanalım(t.me./BaghirovBlog)
 
 - 🤝 Mənə dəstək olan kanal [Dark Web Azerbaijan](https://t.me/darkwebazerbaijan)
