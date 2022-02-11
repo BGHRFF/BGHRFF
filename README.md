@@ -8,7 +8,7 @@
 
 - 🌱 Öyrəmdiyim dillər: **Python,Java,Php,Html,Go**
 
-- 👯 Teleqram Blog Kanalım [BaghirovBlog](t.me./BaghirovBlog)
+- 👯 Teleqram Blog Kanalım [BaghirovBlog](t.me/BaghirovBlog)
 
 - 🤝 Mənə dəstək olan kanal [Dark Web Azerbaijan](https://t.me/darkwebazerbaijan)
 
