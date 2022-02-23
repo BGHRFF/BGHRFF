@@ -19,11 +19,11 @@
 
 - 🌱 Öyrəndiyim dillər: **[PYTHON](https://python.org) [JAVA](https://java.com) [PHP](https://php.net) [HTML](https://devdocs.io/html) [GO](https://go.dev)**
 
-- 👯 Teleqram Blog Kanalım [BaghirovBlog](https://t.me/BaghirovBlog)
+- 👯 Teleqram Blog Kanalım **[BaghirovBlog](https://t.me/BaghirovBlog)**
 
-- 🤝 Mənə dəstək olan kanal [Dark Web Azerbaijan](https://t.me/darkwebazerbaijan)
+- 🤝 Mənə dəstək olan kanal **[Dark Web Azerbaijan](https://t.me/darkwebazerbaijan)**
 
-- 💬 Sualınız olarsa: [BGHRFF](https://t.me/TheBaghirov)
+- 💬 Sualınız olarsa: **[BGHRFF](https://t.me/TheBaghirov)**
 
 - 📫 Əlaqə saxlamaq üçün **dwebazerbaijan@gmail.com / dwebazerbaijan@outlook.com**
 
