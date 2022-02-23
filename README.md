@@ -25,7 +25,7 @@
 
 - 💬 Sualınız olarsa: [BGHRFF](https://t.me/TheBaghirov)
 
-- 📫 Əlaqə saxlamaq üçün **dwebazerbaijan@gmail.com**
+- 📫 Əlaqə saxlamaq üçün **dwebazerbaijan@gmail.com / dwebazerbaijan@outlook.com**
 
 
 <h3 align="left">Lazımlı dillər və alətlər :</h3>
