@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bghrff&label=Profile%20views&color=0e75b6&style=flat" alt="BGHRFF" /> </p>
 
+  </a>
+  <a href="https://github.com/BGHRFF?tab=followers">
+    <img src="https://img.shields.io/github/followers/BGHRFF?color=blue&label=Followers&style=flat-square">
+    
+  </a>
+  <a href="https://github.com/BGHRF?tab=stars">
+    <img src="https://img.shields.io/github/stars/BGHRFF?color=blue&label=Ulduzlar&style=flat-square">
+  </a>
+
 
 - 🔭 Hal-hazırda öyrəndiyim mövzu [Pyrogram](https://github.com/pyrogram/pyrogram)
 
