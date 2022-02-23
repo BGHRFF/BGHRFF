@@ -17,7 +17,7 @@
   
 - 🔭 Hal-hazırda öyrəndiyim mövzu [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-- 🌱 Öyrəndiyim dillər: **[Python](https://python.org) ,Java,Php,Html,Go**
+- 🌱 Öyrəndiyim dillər: **[PYTHON](https://python.org) [JAVA](https://java.com) [PHP](https://php.net) [HTML](https;//devdocs.io/html) [GO](https://go.dev)**
 
 - 👯 Teleqram Blog Kanalım [BaghirovBlog](https://t.me/BaghirovBlog)
 
