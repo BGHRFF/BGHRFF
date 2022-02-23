@@ -1,18 +1,20 @@
 <h1 align="center">Salam 👋, Mən BGHRFF</h1>
 <h3 align="center">Bir hobbi kimi bu işləri öyrənməyə başladım.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bghrff&label=Profile%20views&color=0e75b6&style=flat" alt="BGHRFF" /> </p>
-
+<p align="center">
+  <a href="https://github.com/BGHRFF">
+    <img src="https://komarev.com/ghpvc/?username=BGHRFF&color=blue&style=flat-square">
+    
   </a>
   <a href="https://github.com/BGHRFF?tab=followers">
     <img src="https://img.shields.io/github/followers/BGHRFF?color=blue&label=Followers&style=flat-square">
     
   </a>
-  <a href="https://github.com/BGHRF?tab=stars">
+  <a href="https://github.com/BGHRFFdashzade?tab=stars">
     <img src="https://img.shields.io/github/stars/BGHRFF?color=blue&label=Ulduzlar&style=flat-square">
   </a>
 
-
+  
 - 🔭 Hal-hazırda öyrəndiyim mövzu [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 - 🌱 Öyrəmdiyim dillər: **Python,Java,Php,Html,Go**
