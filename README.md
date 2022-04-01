@@ -48,8 +48,16 @@
 <a href="https://javascript.com" target"blank_"><img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=darkyellow>"></a>
 <a href="https://mongob.com" target"blank_"><img src="https://img.shields.io/badge/MongoDb%20-111111.svg?&style=for-the-badge&logo=mongodb&logoColor=blue>"></a>
 <a href="https://www.sublimetext.com" target"blank_"><img src="https://img.shields.io/badge/Sublime Text%20-111111.svg?&style=for-the-badge&logo=Sublime Text&logoColor=darkorange"></a>
-<a href="https://azure.microsoft.com/tr-tr/" target"blank_"><img src="https://img.shields.io/badge/Microsoft Azure%20-111111.svg?&style=for-the-badge&logo=Microsoft Azure&logoColor=blue>"></a><br><br>
+<a href="https://azure.microsoft.com/tr-tr/" target"blank_"><img src="https://img.shields.io/badge/Microsoft Azure%20-111111.svg?&style=for-the-badge&logo=Microsoft Azure&logoColor=blue>"></a>
+<a href="https://www.python.org" target"blank_"><img src="https://img.shields.io/badge/python%20-111111.svg?&style=for-the-badge&logo=py&logoColor=yellow"></a> <br><br>
 
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bghrff&show_icons=true&locale=en" alt="BGHRFF" /></p>
+<div align="center">
+<h3>Github Statistika</h3>
+   <a href="https://github.com/sirincay" target="_blank"> 
+      <img src="https://github-readme-stats.vercel.app/api/?username=bghrff&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bghrff&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="%100" height="150px">
+   </a>
+</div>
+
