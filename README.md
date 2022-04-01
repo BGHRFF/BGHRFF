@@ -2,12 +2,14 @@
 <h3 align="center">Bir hobbi kimi bu işləri öyrənməyə başladım.</h3>
 
 <p align="center">
-  <a href="https://github.com/BGHRFF">
-    <img src="https://komarev.com/ghpvc/?username=BGHRFF&color=blue&style=flat-square">
-    
-  </a>
+  
   <a href="https://github.com/BGHRFF?tab=followers">
     <img src="https://img.shields.io/github/followers/BGHRFF?color=blue&label=Followers&style=flat-square">
+    
+  </a>
+  
+  <a href="https://github.com/BGHRFF">
+    <img src="https://komarev.com/ghpvc/?username=BGHRFF&color=blue&style=flat-square">
     
   </a>
   <a href="https://github.com/BGHRFF?tab=stars">
