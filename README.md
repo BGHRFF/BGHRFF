@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/followers/BGHRFF?color=blue&label=Followers&style=flat-square">
     
   </a>
-  <a href="https://github.com/BGHRFFdashzade?tab=stars">
+  <a href="https://github.com/BGHRFF?tab=stars">
     <img src="https://img.shields.io/github/stars/BGHRFF?color=blue&label=Ulduzlar&style=flat-square">
   </a>
 
