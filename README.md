@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/github/stars/BGHRFF?color=blue&label=Sterne&style=flat-square">
   </a>
 
- <div align="center">
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dr4d2dhzwgtbnc6myyl35wrbai&cover_image=false&theme=default&bar_color_cover=true" />
+<div align="center">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=6ludpz9pikn34ptlf8zrinqc4&cover_image=false&theme=default&bar_color_cover=true" />
   </div>
   
   
