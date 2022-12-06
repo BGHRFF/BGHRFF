@@ -13,7 +13,7 @@
     
   </a>
   <a href="https://github.com/BGHRFF?tab=stars">
-    <img src="https://img.shields.io/github/stars/BGHRFF?color=blue&label=Ulduzlar&style=flat-square">
+    <img src="https://img.shields.io/github/stars/BGHRFF?color=blue&label=Sterne&style=flat-square">
   </a>
 
   
