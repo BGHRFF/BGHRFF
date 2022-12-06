@@ -17,9 +17,7 @@
   </a>
 
   
-- 🔭 Das Fach, das ich gerade studiere **[Pyrogram](https://github.com/pyrogram/pyrogram)**
-
-- 🌱 Sprachen, die ich gelernt habe: **[PYTHON](https://python.org) [JAVA](https://java.com) [PHP](https://php.net) [HTML](https://devdocs.io/html) [GO](https://go.dev)**
+- 🔭 Das Fach, das ich gerade studiere **[PYTHON](https://python.org)**
 
 - 👯 Mein Telegramm-Blog-Kanal **[BaghirovBlog](https://t.me/BaghirovBlog)**
 
