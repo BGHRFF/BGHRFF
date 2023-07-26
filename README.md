@@ -34,7 +34,7 @@
 <div align="center">
 <h3>Meine Social-Media-Konten</h3>
 <a href="https://t.me/DeveloperAZ" target"blank_"><img src="https://img.shields.io/badge/Telegram%20-111111.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>
-<a href="https://instagram.com/cmbghrv" target"blank_"><img src="https://img.shields.io/badge/Instragram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink"></a>
+<a href="https://instagram.com/gzx1337" target"blank_"><img src="https://img.shields.io/badge/Instragram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink"></a>
 <a href="https://wa.me/+994559197996" target"blank_"><img src="https://img.shields.io/badge/WhatsApp%20-111111.svg?&style=for-the-badge&logo=whatsapp&logoColor=darkgreen"></a>
 <a href="https://github.com/BGHRFF" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
